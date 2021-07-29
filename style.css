@@ -72,7 +72,7 @@ text-align:center;
     div .row {
         display: grid;
         grid-template-columns: auto auto;
-        margin-right:150px;
+        margin-right:500px;
     }
     div .btn {
         width: 100px;
