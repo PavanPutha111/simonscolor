@@ -17,6 +17,12 @@ $(document).keypress(function() {
     }
 });
 
+$(document).keypress(function() {
+    $("input").click(function() {
+        $("input").css("display", "none");
+    })
+})
+
 $(".btn").click(function() {
 
     var userChosenColour = $(this).attr("id");
