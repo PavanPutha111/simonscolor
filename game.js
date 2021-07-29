@@ -17,7 +17,7 @@ $(document).keypress(function() {
     }
 });
 
-$(document).click(function() {
+$("input").keypress(function() {
         $("input").css("display", "none");
         $("p").css("display","none");
 })
