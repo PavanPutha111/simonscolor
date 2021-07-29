@@ -59,8 +59,13 @@ h2 {
     box-shadow: 0 0 20px white;
     background-color: grey;
 }
+@media (min-width:1100px) {
+    #inputBox {
+        display: none;
+    }
+}
 
-@media (max-width:1300px) {
+@media (max-width:1100px) {
     div .row {
         display: grid;
         grid-template-columns: auto auto;
