@@ -70,9 +70,6 @@ h2 {
 text-align:center;
 margin:auto;
      }
-.container{
-margin:auto auto;
-}
     div .row {
         display: grid;
         grid-template-columns: auto auto;
