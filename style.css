@@ -60,7 +60,7 @@ h2 {
     background-color: grey;
 }
 @media (min-width:1100px) {
-    #inputBox {
+    input {
         display: none;
     }
 }
