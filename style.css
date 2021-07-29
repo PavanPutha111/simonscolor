@@ -69,14 +69,15 @@ h2 {
     body{
 text-align:center;
      }
-div .container{
-margin:0 auto;
-padding:100px;
-}
+    div .container{
+         width:50%;
+         margin: auto;
+         padding:100px;
+     }
     div .row {
         display: grid;
         grid-template-columns: auto auto;
-margin:auto auto;
+        margin:auto auto;
     }
     div .btn {
         width: 100px;
