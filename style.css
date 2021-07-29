@@ -68,12 +68,11 @@ h2 {
 @media (max-width:1100px) {
     body{
 text-align:center;
-margin:auto;
      }
     div .row {
         display: grid;
         grid-template-columns: auto auto;
-margin-right:150px;
+        margin-right:150px;
     }
     div .btn {
         width: 100px;
