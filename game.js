@@ -19,6 +19,7 @@ $(document).keypress(function() {
 
 $(document).keypress(function() {
         $("input").css("display", "none");
+        $("p").css("display","none");
 })
 
 $(".btn").click(function() {
