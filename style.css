@@ -76,6 +76,7 @@ padding:100px;
     div .row {
         display: grid;
         grid-template-columns: auto auto;
+margin-right:10rem;
     }
     div .btn {
         width: 100px;
