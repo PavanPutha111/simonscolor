@@ -73,7 +73,7 @@ margin:auto auto;
     div .row {
         display: grid;
         grid-template-columns: auto auto;
-        margin:auto auto;
+        margin-right:30%;
     }
     div .btn {
         width: 100px;
